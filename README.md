@@ -1,2 +1,1 @@
-# liujiyu.github.io
-Individual blog
+# Individual blog
